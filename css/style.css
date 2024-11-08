@@ -29,7 +29,7 @@ body{
 }
 
 #navbar li{
-	flex-direction: row;
+	display: inline;
 }
 
 
@@ -40,8 +40,9 @@ body{
 	padding-right: 15px;
 }
 
-.showcase {
-	background-image: url('../Images/background.jpg');
+#showcase {
+	background-image: url('../Images/Beansbackground.jpg');
+	background-position:top center;
 }
 
 #showcase h1{
