@@ -73,6 +73,8 @@ body{
 	text-align: center;
 	padding: 20px;
 	margin-bottom: 0;
+	width: 100%;
+	position: absolute;
 }
 
 @media(max-width: 600px){
